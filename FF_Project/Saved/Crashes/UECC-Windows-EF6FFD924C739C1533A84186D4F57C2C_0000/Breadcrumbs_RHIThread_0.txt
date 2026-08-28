@@ -1,0 +1,5 @@
+Breadcrumbs 'RHIThread'
+ - DrawTileMesh
+ - FLightmassMaterialRenderer MI_LF_SimpleGlow_10
+ - FRDGBuilder::Execute
+ - Frame 2279
