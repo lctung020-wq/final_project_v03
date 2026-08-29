@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Program Files/Epic Games/UE_5.5/Engine/Content/EngineMaterials/DefaultMaterial.uasset",
+				"D:/game/GitHub_game2026_ff/final_project_v03/FF_Project/Content/__ExternalActors__/ThirdPerson/Maps/FF_G_MAP/1/U7/HA8LJQTJZQYCAH5N7IU4PX.uasset",
+				"D:/game/GitHub_game2026_ff/final_project_v03/FF_Project/Content/__ExternalActors__/ThirdPerson/Maps/FF_G_MAP/1/S7/GGJ4YYE1M1WFPO9OQJL859.uasset",
+				"D:/game/GitHub_game2026_ff/final_project_v03/FF_Project/Content/ThirdPerson/Maps/FF_G_MAP.umap",
 				"C:/Users/Pro Class/Desktop/FF_Project/Content/ThirdPerson/Maps/FF_G_MAP.umap",
 				"C:/Users/Pro Class/Desktop/FF_Project/Content/aloy/audio/437650__dersuperanton__getting-hit-damage-scream.uasset",
 				"C:/Users/Pro Class/Desktop/FF_Project/Content/aloy/audio/519293__pelicanicious__totem-strike.uasset",
@@ -35,7 +39,6 @@
 				"C:/Users/Pro Class/Desktop/FF_Project/Content/aloy/pngwing_com__4_.uasset",
 				"C:/Users/Pro Class/Desktop/FF_Project/Content/aloy/tbmap2/blueprints/BP_ExplosiveRock.uasset",
 				"C:/Users/Pro Class/Desktop/FF_Project/Content/aloy/maps/TemplesOfCambodia/Effects/Mist_01/ps_Mist_01_01_LitLarge.uasset",
-				"C:/Program Files/Epic Games/UE_5.5/Engine/Content/EngineMaterials/DefaultMaterial.uasset",
 				"C:/Users/Pro Class/Desktop/FF_Project/Content/__ExternalActors__/ThirdPerson/Maps/FF_G_MAP/9/IU/2V8S5O0Z80YA3VKY892NOM.uasset",
 				"C:/Users/Pro Class/Desktop/FF_Project/Content/aloy/maps/TemplesOfCambodia/Demo/EpicContent/StarterContent/Particles/P_Fire1.uasset",
 				"C:/Users/Pro Class/Desktop/FF_Project/Content/_Asset/Animation/TKDstyle_Animset/demo/FX/NS_rockBr.uasset",
