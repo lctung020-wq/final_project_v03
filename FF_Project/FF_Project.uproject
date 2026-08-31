@@ -5,14 +5,15 @@
 	"Description": "",
 	"Plugins": [
 		{
-			"Name": "ModelingToolsEditorMode",
-			"Enabled": true,
-			"TargetAllowList": [
-				"Editor"
-			]
+			"Name": "MotionWarping",
+			"Enabled": true
 		},
 		{
-			"Name": "MotionWarping",
+			"Name": "SkeletalMeshModelingTools",
+			"Enabled": false
+		},
+		{
+			"Name": "ModelingToolsEditorMode",
 			"Enabled": true
 		}
 	]
